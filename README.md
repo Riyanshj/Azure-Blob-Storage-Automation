@@ -64,20 +64,3 @@ Automates the backup process of files to Azure Blob Storage at regular intervals
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-### Explanation:
-
-- **Project Title and Description**: Clearly states the purpose of the project ("Azure Blob Storage Backup Automation") and provides a brief overview of its features.
-  
-- **Features**: Lists key features of the project to highlight what the automation script achieves.
-  
-- **Setup**: Provides step-by-step instructions on how to set up the project locally, including cloning the repository, installing dependencies, and configuring Azure Blob Storage credentials.
-  
-- **Usage**: Explains how to use the script (`backup.py`) to initiate automated backups, including customization options and monitoring instructions.
-  
-- **Notes**: Offers additional considerations and suggestions for further customization or deployment options.
-  
-- **License**: Specifies the project's licensing terms to inform users of permissions and restrictions.
-
-This Markdown content can be directly used as the README.md file in your GitHub repository. Adjust the instructions and details based on specific project requirements or enhancements.
